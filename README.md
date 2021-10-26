@@ -1,14 +1,21 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=17&multiline=true&lines=Welcome+to+my+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=28&multiline=true&lines=Welcome+to+my+Github!)](https://git.io/typing-svg)
 
-Hi there 👋 - I'm Jonah, a full stack engineer from the Blue Ridge Mountains.
+# hi there 👋 - I'm Jonah, a full stack engineer from the Blue Ridge Mountains
 
-<br />
+## *in my free time I enjoy*
+* working with machine learning 
+* creating animated 3D computer graphics
 
-- Contact me: costjonah@gmail.com
-- Connect with me: https://www.linkedin.com/in/costjonah
+## *skills I'm currently learning*
+#### Technical:
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+#### Non-Tech:
+* Japanese 🇯🇵 
+* Ableton Live 🎹
 
-<br /> 
+## *tech used on my projects*
 
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,6 +43,8 @@ Hi there 👋 - I'm Jonah, a full stack engineer from the Blue Ridge Mountains.
 ![image](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
 ![image](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
+## *connect with me*
+costjonah@gmail.com · https://www.linkedin.com/in/costjonah
 <br />
-
+##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=costjonah&show_icons=true&theme=blue-green)
