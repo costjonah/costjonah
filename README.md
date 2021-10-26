@@ -3,7 +3,7 @@
 
 # hi there 👋 - I'm Jonah, a full stack engineer from the Blue Ridge Mountains
 
-## *in my free time I enjoy*
+## *hobbies I enjoy*
 * working with machine learning 
 * creating animated 3D computer graphics
 
