@@ -7,10 +7,13 @@
 * working with machine learning 
 * creating animated 3D computer graphics
 
-## *skills I'm currently learning*
+## *I'm currently learning*
 #### Technical:
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+<br />
+![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![image](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 #### Non-Tech:
 * Japanese 🇯🇵 
 * Ableton Live 🎹
