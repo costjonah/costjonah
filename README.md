@@ -48,7 +48,10 @@
 ![image](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
 ## *connect with me*
-costjonah@gmail.com  ·  https://www.linkedin.com/in/costjonah
-<br />
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
+##### https://www.linkedin.com/in/costjonah
+
+
 ##
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=costjonah&show_icons=true&theme=blue-green)
