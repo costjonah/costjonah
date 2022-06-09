@@ -17,7 +17,7 @@
 <br />
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 #### Non-Tech:
-* Japanese 🇯🇵 
+* Mandarin 🇨🇳
 * Ableton Live 🎹
 
 ## *tech used on my projects*
