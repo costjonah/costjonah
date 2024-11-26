@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=28&multiline=true&lines=Welcome+to+my+Github!)](https://git.io/typing-svg)
 
-# hi there 👋 - I'm Jonah, a full stack engineer from the Blue Ridge Mountains
+# Hi, there 👋 - I'm Jonah, a full stack engineer from the Blue Ridge Mountains, currently located in Greenville, SC.
 
 ## *Hobbies I enjoy*
 * working with machine learning 
