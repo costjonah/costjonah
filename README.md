@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=28&multiline=true&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-# Hi, there 👋 - I'm Jonah, a full stack engineer from the Blue Ridge Mountains, currently located in Greenville, SC.
+# Hi, there 👋 – I'm Jonah, a Full-Stack Software Development Engineer from the Blue Ridge Mountains, currently located in Greenville, SC.
 
 ## *I'm currently working with*
 ![image](https://shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
