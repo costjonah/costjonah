@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=300&color=1CC5FFC0&center=true&multiline=true&width=600&height=110&lines=Hey+there%2C+I'm+Jonah+%F0%9F%91%8B;Software+Development+Engineer)](https://git.io/typing-svg)
 
-🏔️ *Born in the Blue Ridge Mountains. Building from Greenville, SC.*
+🏔️ *Born in the New River Valley. Building from Greenville, SC.*
 
 ---
 
